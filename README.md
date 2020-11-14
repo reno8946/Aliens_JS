@@ -12,11 +12,11 @@ JavaScript
 
 ![image](https://user-images.githubusercontent.com/70483866/99156647-29957300-2688-11eb-99aa-206537eb5a9e.png)
 
-- You can then filter by one specific category, such as date by typing in the desired date in the datetime format indicated in the text box and press enter and the filter will be executed
+- You can then filter by one specific category, such as date by typing in the desired date in the datetime format indicated in the text box and press enter and the filter will be executed (see image below)
 
 ![image](https://user-images.githubusercontent.com/70483866/99156598-d0c5da80-2687-11eb-9a84-863855957971.png)
 
-- Alternatively, you can narrow your filter search even more by typing in values for all 5 filter box items or as many as you need and then press enter and the filter will be executed to display only the row(s) that you need.
+- Alternatively, you can narrow your filter search even more by typing in values for all 5 filter box items or as many as you need and then press enter and the filter will be executed to display only the row(s) that you need (see image below)
 
 ![image](https://user-images.githubusercontent.com/70483866/99156629-07035a00-2688-11eb-9717-21a2a20fe017.png)
 
