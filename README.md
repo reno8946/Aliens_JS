@@ -8,7 +8,7 @@ JavaScript
 
 ## UFOs Analysis Results
 
---The data table displays on the webpage successfully as displayed in the image below with 5 filter boxes shown on the left hand side, including date, city, state, country, and shape
+###The data table displays on the webpage successfully as displayed in the image below with 5 filter boxes shown on the left hand side, including date, city, state, country, and shape
 
 ![image](https://user-images.githubusercontent.com/70483866/99156647-29957300-2688-11eb-99aa-206537eb5a9e.png)
 
